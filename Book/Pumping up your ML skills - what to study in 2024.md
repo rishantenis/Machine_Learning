@@ -8,6 +8,7 @@
 
 <div style="text-align: justify;">
 I would like to talk about books that explain the fundamental concepts of machine learning in an easy-to-understand way. Let's start with [`Machine Learning Simplified (2022)`](https://themlsbook.com/). Its author uses clear examples to explain key concepts, algorithms, and methods. In the course of the narrative, he gradually moves from simple examples to more complex ones.
+
 In the first part, he gives basic terms (from AI systems and data science to deep learning and so on), and in the second part, he explains complex concepts such as logistic regression, Bayesian modeling, and tree data structure. The second part is not yet fully published; new chapters are released gradually and can be explored as they are released.
 The author of the book is an MLOPS engineer. His experience in teaching ML has shown that introductory materials on machine learning are written either in a scientific and incomprehensible way for beginners or, on the contrary, too simplistic and without specifics. So he developed his own textbook, in which he tried to explain the basics of ML in simple words. In reviews of the book, write about the clear structure, explaining complex processes with the help of simple examples. At the beginning of each chapter, the author gives a summary of its content and reveals key concepts; this approach allows you not to waste time reading familiar information.
 
